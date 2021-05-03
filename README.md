@@ -1,7 +1,9 @@
 # Vegard Aasen
 
 Or: vegaasen(.com)
+
 Or: fausk
+
 Or: fl1ppr
 
 ## Programmer | Web Developer | Backender | Architect
