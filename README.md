@@ -8,4 +8,6 @@ Or: Skabbmamma
 
 ## Programmer | Web Developer | Backender | Architect
 
-## Odding | Drammenser | Webstepper | Biking Fanatic | Running Nut | Alpinist | Petrolhead | Coffee Lover
+## Odding | Drammenser | Webstepper
+
+## Biking Fanatic | Running Nut | Alpinist | Petrolhead | Coffee Lover
