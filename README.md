@@ -1,4 +1,4 @@
-# Vegard Aasen
+# Vegard Aasen 👋 🤠
 
 Or: vegaasen(.com)
 
