@@ -51,7 +51,7 @@
 9. 📔 Tenke fort og langsomt
 10. 📔 Eat & Run
 
-## My toolbelt
+## My tool-belt(ish)
 
 <p align="left">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
