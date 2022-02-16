@@ -1,13 +1,13 @@
 <img style="border-radius: 15px; filter: sepia(35%); transform: rotate(3deg)" src="./me.jpeg" width="250" alt="vegard aasen amazing beautiful photo" align="right">
 <h1 align="left">Hello, world!</h1>
-<pre style="font-family: monospace">
+<p>
     I'm Vegard Aasen <span style="overflow: hidden;transition-duration: 0.8s;transition-property: transform;transform: rotate(360deg);">👋</span>
     <br />
     <br />
     Working as a so-called full-stacker in <a href="https://www.webstep.no/">Webstep</a>
     where I'm creating awesome things for awesome customers! Be it frontend or backend - cowboy mode is always on - and 
     I'm ready for new adventures!
-</pre>
+</p>
 
 ### 🤔 Who iz diz in a nutshell?
 
@@ -46,7 +46,7 @@
 4. 📔 The subtle art of not giving a f*ck
 5. 📔 Where good ideas come from
 6. 📔 Effective Kotlin
-7. 📔 Code Complete 2 
+7. 📔 Code Complete 2
 8. 📔 The phoenix project
 9. 📔 Tenke fort og langsomt
 10. 📔 Eat & Run
