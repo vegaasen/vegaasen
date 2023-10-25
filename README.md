@@ -38,18 +38,19 @@
 [![rust](https://img.shields.io/badge/deno-%23F7DF9F.svg?style=for-the-badge&logo=deno&logoColor=%23000000)](https://deno.land/)
 [![rust](https://img.shields.io/badge/webassembly-%23F7DF9F.svg?style=for-the-badge&logoColor=%23000000)](https://webassembly.org/)
 
-## 📖 10 last books I've swooped through
+## 📖 Last books I've swooped through
 
+1. 📔 Your Code as a Crime Scene
+1. 📔 Kongen forteller
 1. 📔 Ask your developer
-2. 📔 Linchpin
+1. 📔 Linchpin
 1. 📔 Programming perls
-4. 📔 The subtle art of not giving a f*ck
-5. 📔 Where good ideas come from
-6. 📔 Effective Kotlin
-7. 📔 Code Complete 2
-8. 📔 The phoenix project
-9. 📔 Tenke fort og langsomt
-10. 📔 Eat & Run
+1. 📔 The subtle art of not giving a f*ck
+1. 📔 Where good ideas come from
+1. 📔 Effective Kotlin
+1. 📔 Code Complete 2
+1. 📔 The phoenix project
+1. 📔 Tenke fort og langsomt
 
 ## My tool-belt(ish)
 
