@@ -44,6 +44,7 @@
 
 ## 📖 Last books I've swooped through
 
+1. 📔 Vinter uten nåde
 1. 📔 Your Code as a Crime Scene
 1. 📔 Kongen forteller
 1. 📔 Ask your developer
