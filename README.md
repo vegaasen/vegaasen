@@ -102,7 +102,7 @@
 ## I'm all over on the internet, too!
 
 [![personal site](https://img.shields.io/badge/www-vegaasen.com-lightgray.svg?style=for-the-badge)](http://www.vegaasen.com/)
-[![Strava](https://img.shields.io/badge/strava-lightgray.svg?style=for-the-badge&logo=strava)](https://www.strava.com/)
+[![Strava](https://img.shields.io/badge/strava-lightgray.svg?style=for-the-badge&logo=strava)](https://www.strava.com/athletes/464570)
 [![GitHub](https://img.shields.io/badge/github-lightgray.svg?style=for-the-badge&logo=github)](http://github.com/vegaasen)
 [![Steam](https://img.shields.io/badge/steam-lightgray.svg?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/vegaasen)
 [![LinkedIn](https://img.shields.io/badge/linkedIn-lightgray.svg?style=for-the-badge&logo=linkedin)](https://no.linkedin.com/in/vegaasen)
