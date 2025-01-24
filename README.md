@@ -1,7 +1,7 @@
 <h1 align="left">Hello, world!</h1>
 <img style="border-radius: 15px; filter: sepia(35%); transform: rotate(3deg)" src="./me.jpeg" width="250" alt="vegard aasen amazing beautiful photo" align="right">
 <p>
-    I'm Vegard Aasen 
+    I'm Vegard Aasen
     <span style="overflow: hidden;transition-duration: 0.8s;transition-property: transform;transform: rotate(360deg);">👋</span>
     <br />
     <br />
