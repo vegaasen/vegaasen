@@ -125,4 +125,3 @@
 [![GitHub](https://img.shields.io/badge/github-lightgray.svg?style=for-the-badge&logo=github)](http://github.com/vegaasen)
 [![Steam](https://img.shields.io/badge/steam-lightgray.svg?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/vegaasen)
 [![LinkedIn](https://img.shields.io/badge/linkedIn-lightgray.svg?style=for-the-badge&logo=linkedin)](https://no.linkedin.com/in/vegaasen)
-[![Twitter](https://img.shields.io/badge/twitter-lightgray.svg?style=for-the-badge&logo=twitter)](https://twitter.com/vegaasen)
