@@ -1,7 +1,8 @@
 <h1 align="left">Hello, world!</h1>
 <img style="border-radius: 15px; filter: sepia(35%); transform: rotate(3deg)" src="./me.jpeg" width="250" alt="vegard aasen amazing beautiful photo" align="right">
 <p>
-    I'm Vegard Aasen <span style="overflow: hidden;transition-duration: 0.8s;transition-property: transform;transform: rotate(360deg);">👋</span>
+    I'm Vegard Aasen 
+    <span style="overflow: hidden;transition-duration: 0.8s;transition-property: transform;transform: rotate(360deg);">👋</span>
     <br />
     <br />
     Working as a full-stack wizard at <a href="https://www.webstep.no/"><img src="./wo-large.png" height="12px" alt="webstep logo"></a>, 
@@ -46,7 +47,8 @@
 
 ## 📖 Last books I've swooped through
 
-Not the complete list, but its a few of my current ones.
+> [!NOTE]
+> Not the complete list, but its a few of my current ones.
 
 ### 2025
 
