@@ -16,10 +16,10 @@
 * 📍 Odding cloaked as Drammenser
 * <img src="./wo.png" width="20" alt="webstep logo"> Webstepper
 * 🚴‍♂️ Bicycle fanatic
-* 🏃‍♂️Running Nut
+* 🏃‍♂️Running nut
 * ⛷ Alpinist
+* ☕ ️Coffee consumer
 * ⛽️ Petrolhead
-* ☕ ️Coffee Lover
 * 👨‍👧 Dad
 * 🤓 Backender pretending to be a frontender
 
@@ -44,14 +44,28 @@
 
 ## 📖 Last books I've swooped through
 
+Not the complete list, but its a few of my current ones.
+
+### 2025
+
+1. 📔 The Anxious Generation
+
+### 2024 
+
 1. 📔 Vinter uten nåde
 1. 📔 Your Code as a Crime Scene
 1. 📔 Kongen forteller
+
+### 2023
+
 1. 📔 Ask your developer
 1. 📔 Linchpin
 1. 📔 Programming perls
 1. 📔 The subtle art of not giving a f*ck
 1. 📔 Where good ideas come from
+
+### 2022 and earlier
+
 1. 📔 Effective Kotlin
 1. 📔 Code Complete 2
 1. 📔 The phoenix project
