@@ -48,6 +48,9 @@
 
 ## 📖 Last books I've swooped through
 
+📘 -> Techy book
+📔 -> Normal book
+
 > [!NOTE]
 > Not the complete list, but its a few of my current ones.
 
@@ -58,21 +61,21 @@
 ### 2024 
 
 1. 📔 Vinter uten nåde
-1. 📔 Your Code as a Crime Scene
+1. 📘 Your Code as a Crime Scene
 1. 📔 Kongen forteller
 
 ### 2023
 
 1. 📔 Ask your developer
 1. 📔 Linchpin
-1. 📔 Programming perls
+1. 📘 Programming perls
 1. 📔 The subtle art of not giving a f*ck
 1. 📔 Where good ideas come from
 
 ### 2022 and earlier
 
-1. 📔 Effective Kotlin
-1. 📔 Code Complete 2
+1. 📘 Effective Kotlin
+1. 📘 Code Complete 2
 1. 📔 The phoenix project
 1. 📔 Tenke fort og langsomt
 
