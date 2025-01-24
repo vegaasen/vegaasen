@@ -34,12 +34,14 @@
 [![Vite](https://img.shields.io/badge/vite-grey.svg?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Gradle](https://img.shields.io/badge/gradle-grey.svg?style=for-the-badge&logo=gradle)](https://gradle.org/)
 [![Go](https://img.shields.io/badge/golang-grey.svg?style=for-the-badge&logo=go)](https://go.dev/)
+ [![Go](https://img.shields.io/badge/datadog-grey.svg?style=for-the-badge&logo=datadog)](https://www.datadoghq.com/)
+![Azure](https://img.shields.io/badge/azure-grey.svg?style=for-the-badge&logo=azure-devops)
 
 ## Short-term watchlist
 
 [![Flutter](https://img.shields.io/badge/flutter-%23F7DF9F.svg?style=for-the-badge&logo=flutter&logoColor=%23000000)](https://flutter.dev/)
 [![rust](https://img.shields.io/badge/rust-%23F7DF9F.svg?style=for-the-badge&logo=rust&logoColor=%23000000)](https://www.rust-lang.org/)
-[![Deo](https://img.shields.io/badge/deno-%23F7DF9F.svg?style=for-the-badge&logo=deno&logoColor=%23000000)](https://deno.land/)
+[![Deno](https://img.shields.io/badge/deno-%23F7DF9F.svg?style=for-the-badge&logo=deno&logoColor=%23000000)](https://deno.land/)
 [![rust](https://img.shields.io/badge/webassembly-%23F7DF9F.svg?style=for-the-badge&logoColor=%23000000)](https://webassembly.org/)
 
 ## 📖 Last books I've swooped through
