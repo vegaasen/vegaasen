@@ -48,8 +48,8 @@
 
 ## 📖 Last books I've swooped through
 
-📘 -> Techy book
-📔 -> Normal book
+* 📘 Techy book
+* 📔 Normal book
 
 > [!NOTE]
 > Not the complete list, but its a few of my current ones.
