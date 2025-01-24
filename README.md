@@ -50,8 +50,9 @@
 
 Book-icon meaning:
 
-* 📘 Techy book
-* 📔 Normal book
+📘 Techy book
+
+📔 Normal book
 
 ### 2025
 
