@@ -37,6 +37,7 @@
 [![Go](https://img.shields.io/badge/golang-grey.svg?style=for-the-badge&logo=go)](https://go.dev/)
  [![Go](https://img.shields.io/badge/datadog-grey.svg?style=for-the-badge&logo=datadog)](https://www.datadoghq.com/)
 ![Azure](https://img.shields.io/badge/azure-grey.svg?style=for-the-badge&logo=azure-devops)
+![Oracle Identity Manager](https://img.shields.io/badge/Oracle%20Identity%20Manager-grey.svg?style=for-the-badge&logo=azure-devops)
 
 ## Short-term watchlist
 
