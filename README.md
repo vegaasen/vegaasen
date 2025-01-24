@@ -4,9 +4,9 @@
     I'm Vegard Aasen <span style="overflow: hidden;transition-duration: 0.8s;transition-property: transform;transform: rotate(360deg);">👋</span>
     <br />
     <br />
-    Working as a so-called full-stacker in <a href="https://www.webstep.no/"><img src="./wo-large.png" height="12px" alt="webstep logo"></a>
-    where I'm creating awesome things for awesome customers! Be it frontend or backend - cowboy mode is always on - and 
-    I'm ready for new adventures!
+    Working as a full-stack wizard at <a href="https://www.webstep.no/"><img src="./wo-large.png" height="12px" alt="webstep logo"></a>, 
+    where innovation meets technology. 
+    Crafting cutting-edge solutions that push boundaries - whether frontend or backend, my cowboy code mode is always engaged and primed for the next epic digital adventure!
 </p>
 
 ### 🤔 Who iz diz in a nutshell?
