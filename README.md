@@ -53,9 +53,6 @@ Book-icon meaning:
 * 📘 Techy book
 * 📔 Normal book
 
-> [!NOTE]
-> Not the complete list, but its a few of my current ones.
-
 ### 2025
 
 1. 📔 The Anxious Generation
@@ -80,6 +77,9 @@ Book-icon meaning:
 1. 📘 Code Complete 2
 1. 📔 The phoenix project
 1. 📔 Tenke fort og langsomt
+
+> [!NOTE]
+> Not the complete list, but its a few of my current ones.
 
 ## My tool-belt(ish)
 
