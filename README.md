@@ -48,6 +48,8 @@
 
 ## 📖 Last books I've swooped through
 
+Book-icon meaning:
+
 * 📘 Techy book
 * 📔 Normal book
 
