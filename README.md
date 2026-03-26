@@ -21,42 +21,44 @@
 * ⛷ Alpinist
 * ☕ ️Coffee consumer
 * ⛽️ Petrolhead
-* 👨‍👧 Dad
+* 👨‍👧 Dad to two
 * 🤓 Backender pretending to be a frontender
 
 ## Current tech and stuff
 
+[![Claude Code](https://img.shields.io/badge/Claude_Code-555?style=for-the-badge&logo=claude)](https://code.claude.com)
 [![Remix](https://img.shields.io/badge/remix-grey.svg?style=for-the-badge&logo=remix)](https://remix.run/)
 [![Svelte](https://img.shields.io/badge/svelte-grey.svg?style=for-the-badge&logo=svelte)](https://svelte.dev/)
 [![Typescript](https://img.shields.io/badge/typescript-grey.svg?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
 [![Kotlin](https://img.shields.io/badge/kotlin-grey.svg?style=for-the-badge&logo=kotlin)](https://kotlinlang.org/)
 [![Kubernetes](https://img.shields.io/badge/kubernetes-grey.svg?style=for-the-badge&logo=kubernetes)](https://kubernetes.io/)
 [![React](https://img.shields.io/badge/react-grey.svg?style=for-the-badge&logo=react)](https://reactjs.org/)
-[![Vite](https://img.shields.io/badge/vite-grey.svg?style=for-the-badge&logo=vite)](https://vitejs.dev/)
 [![Gradle](https://img.shields.io/badge/gradle-grey.svg?style=for-the-badge&logo=gradle)](https://gradle.org/)
 [![Go](https://img.shields.io/badge/golang-grey.svg?style=for-the-badge&logo=go)](https://go.dev/)
- [![Go](https://img.shields.io/badge/datadog-grey.svg?style=for-the-badge&logo=datadog)](https://www.datadoghq.com/)
+[![Datadog](https://img.shields.io/badge/datadog-grey.svg?style=for-the-badge&logo=datadog)](https://www.datadoghq.com/)
 ![Azure](https://img.shields.io/badge/azure-grey.svg?style=for-the-badge&logo=azure-devops)
 ![Oracle Identity Manager](https://img.shields.io/badge/Oracle%20Identity%20Manager-grey.svg?style=for-the-badge&logo=azure-devops)
 
 ## Short-term watchlist
 
-[![Flutter](https://img.shields.io/badge/flutter-%23F7DF9F.svg?style=for-the-badge&logo=flutter&logoColor=%23000000)](https://flutter.dev/)
 [![rust](https://img.shields.io/badge/rust-%23F7DF9F.svg?style=for-the-badge&logo=rust&logoColor=%23000000)](https://www.rust-lang.org/)
-[![Deno](https://img.shields.io/badge/deno-%23F7DF9F.svg?style=for-the-badge&logo=deno&logoColor=%23000000)](https://deno.land/)
-[![rust](https://img.shields.io/badge/webassembly-%23F7DF9F.svg?style=for-the-badge&logoColor=%23000000)](https://webassembly.org/)
 
 ## 📖 Last books I've swooped through
 
 Book-icon meaning:
 
 📘 Techy book
-
 📔 Normal book
+
+### 2026
+
+1. 📔 Ready Player Two
+1. 📔 A Promised Land - Barack Obama
 
 ### 2025
 
 1. 📔 The Anxious Generation
+1. 📔 Ready Player One
 
 ### 2024 
 
